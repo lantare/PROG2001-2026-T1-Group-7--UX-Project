@@ -60,18 +60,17 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.53f1c1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Student_Wen Minghan\Scripts\CoinSpawner.cs" />
     <Compile Include="Assets\Student_Zhang Wenze\Scripts\ThirdPersonMovement.cs" />
     <Compile Include="Assets\Menu\Lowpoly Style\Shared Scripts\FlickerLight.cs" />
     <Compile Include="Assets\Menu\Lowpoly Style\Shared Scripts\UVOffset.cs" />
-    <Compile Include="Assets\Menu\Quirky Series Ultimate\Quirky Series Vol.1\_Scripts\Demo.cs" />
     <Compile Include="Assets\Menu\Scripts\Main.cs" />
-    <Compile Include="Assets\Student_Tian Yanhao Fei\Scripts\CoinSpawner.cs" />
+    <Compile Include="Assets\Student_Tian Yanhao Fei\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Student_Zhang Wenze\Scripts\SimpleGemsAnim.cs" />
-    <Compile Include="Assets\Student_Wen Minghan\Scripts\CameraFollow.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Menu\Quirky Series Ultimate\Quirky Series Vol.1\_Shader\SoftSurface.shader" />
-    <None Include="Assets\Menu\Quirky Series Ultimate\Quirky Series Vol.1\_Shader\ToonRamp.shader" />
+    <None Include="Assets\Menu\Quirky Series\_Shader\SoftSurface.shader" />
+    <None Include="Assets\Menu\Quirky Series\_Shader\ToonRamp.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
